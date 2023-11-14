@@ -1,0 +1,7 @@
+algoritmo "Aula02"
+var
+   msg: caracter
+inicio
+   msg <- "Olá Mundo"
+   Escreva ("Mensagem: ", msg)
+fimalgoritmo
